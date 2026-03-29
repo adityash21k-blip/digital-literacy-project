@@ -1,4 +1,6 @@
-CSE0001 Name: Aditya Sahu
+CSE0001
+
+Name: Aditya Sahu
 
 Reg No.: 25BAI11538
 
