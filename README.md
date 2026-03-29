@@ -1,7 +1,12 @@
 CSE0001 Name: Aditya Sahu
+
 Reg No.: 25BAI11538
+
 Branch: Computer Science (AI&ML) Engineering
+
 Institution: VIT Bhopal University
+
+
 
 🌟 Project Overview
 This repository serves as my professional Digital Literacy Portfolio, developed as part of my role as a Student Digital Ambassador. The project demonstrates my proficiency in building a professional online presence, utilizing collaborative digital tools, and advocating for cyber safety and communication etiquette.
